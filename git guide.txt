@@ -1,0 +1,27 @@
+initialise git - git init
+
+ls -al : used for see all items in folder
+
+"." shows current directory 
+
+".." shows parent of current directory
+
+".git" shows metadata of git repository that used by version control system
+
+git status : it shows the present status of git
+
+git log: for checking history of previous commit
+
+changes in A branch
+
+
+
+
+changes in branch B
+
+
+changes for Beta version
+
+
+
+
